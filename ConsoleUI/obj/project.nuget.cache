@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "OgOoYiK45euqwHrNBW/ZkhaPf5OQmMs77oj1xQKS2jBwS6jk8cW0t+wFYWqUHVrvmGmHV2w0f4ToBo6cjR+u3A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Zeynep\\source\\repos\\Finallyproject\\ConsoleUI\\ConsoleUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Zeynep\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Zeynep\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

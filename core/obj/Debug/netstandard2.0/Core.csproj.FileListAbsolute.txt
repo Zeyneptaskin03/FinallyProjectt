@@ -1,0 +1,9 @@
+C:\Users\Zeynep\source\repos\Finallyproject\core\bin\Debug\netstandard2.0\Core.deps.json
+C:\Users\Zeynep\source\repos\Finallyproject\core\bin\Debug\netstandard2.0\Core.dll
+C:\Users\Zeynep\source\repos\Finallyproject\core\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\Zeynep\source\repos\Finallyproject\core\obj\Debug\netstandard2.0\Core.csprojAssemblyReference.cache
+C:\Users\Zeynep\source\repos\Finallyproject\core\obj\Debug\netstandard2.0\Core.AssemblyInfoInputs.cache
+C:\Users\Zeynep\source\repos\Finallyproject\core\obj\Debug\netstandard2.0\Core.AssemblyInfo.cs
+C:\Users\Zeynep\source\repos\Finallyproject\core\obj\Debug\netstandard2.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\Zeynep\source\repos\Finallyproject\core\obj\Debug\netstandard2.0\Core.dll
+C:\Users\Zeynep\source\repos\Finallyproject\core\obj\Debug\netstandard2.0\Core.pdb
